@@ -77,6 +77,7 @@ puts numbers
 #.pop removes the last piece in an array.  In letters example, it removed the "y".
 letters.pop
 puts letters
+
 # Call a different built-in Ruby method on each of your variables. 
 # https://ruby-doc.org/core-3.1.0/Array.html
 # Include comments above each method call explaining the impact and return value of that method.
